@@ -1,0 +1,3 @@
+Modelo Integrado:
+
+La infección por S. maltophilia induce inestabilidad genómica, particularmente en regiones ricas en microsatélites cercanas a los genes IL-12 e IL-6. La alteración en la longitud de las repeticiones CCGCCGCCGCCGCCGCCG y ATTATTATTATT podría llevar a una producción deficiente de IL-12, comprometiendo la respuesta inmunitaria protectora Th1. Concomitantemente, la posible desregulación de la expresión de IL-6, influenciada también por la inestabilidad de los microsatélites cercanos a su gen, podría favorecer la multiplicación de S. maltophilia a través de la supresión de la inmunidad celular y la promoción de un microambiente inflamatorio crónico.
